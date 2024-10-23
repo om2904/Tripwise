@@ -13,11 +13,3 @@ Tripwise is a full-stack web application inspired by Airbnb, designed to showcas
 - Database: MongoDB
 - Authentication: Passport.js
 
-
-
-Feel free to explore the code and contribute!
-
----
-
-Replace the placeholders with the specific technologies you used in your project.
-# trips
